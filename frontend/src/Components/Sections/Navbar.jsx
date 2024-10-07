@@ -50,7 +50,7 @@ function NavBar() {
 
 
 
-            <Nav.Link href="https://github.com/dipanjanpathak/MERN_Movie_Recomendation" target="_blank" rel="noopener noreferrer">
+            <Nav.Link href="https://github.com/dipanjanpathak/ML_MERN_Realestate" target="_blank" rel="noopener noreferrer">
               <i className="fa-brands fa-github"></i>&nbsp; Project Code
             </Nav.Link>
 
