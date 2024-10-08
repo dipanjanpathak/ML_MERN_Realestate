@@ -42,11 +42,7 @@ function NavBar() {
             
 
 
-            <LinkContainer to="/Project_DEtails">
-              <Nav.Link>
-                <i className="fa-solid fa-clipboard-question"></i>&nbsp; Project Details
-              </Nav.Link>
-            </LinkContainer>
+           
 
 
 
