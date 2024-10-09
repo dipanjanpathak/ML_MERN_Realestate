@@ -121,6 +121,9 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
 CORS_ALLOWED_ORIGINS = [
-    'http://localhost:3000',  # React app in development
-    'https://abharole.in',     # Production React app
+    'http://localhost:3000',  
+    'https://property.dipanjan.tech',     
+    'http://property.dipanjan.tech',     
+    'http://dipanjan.tech',     
+    'http://dipanjan.tech',     
 ]
