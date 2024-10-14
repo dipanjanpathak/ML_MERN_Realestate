@@ -35,22 +35,22 @@ function NavBar() {
 
             <LinkContainer to="/wishlist">
               <Nav.Link>
-              <i class="fa-solid fa-heart"></i>&nbsp; Wishlists
+                <i class="fa-solid fa-heart"></i>&nbsp; Wishlists
               </Nav.Link>
             </LinkContainer>
 
-            
-
-
-           
 
 
 
-            <Nav.Link href="https://github.com/dipanjanpathak/ML_MERN_Realestate" target="_blank" rel="noopener noreferrer">
+
+
+
+
+            <Nav.Link href="https://github.com/dipanjanpathak/Master_ML-MERN-Realestate" target="_blank" rel="noopener noreferrer">
               <i className="fa-brands fa-github"></i>&nbsp; Project Code
             </Nav.Link>
 
-           
+
           </Nav>
 
           <Nav>
